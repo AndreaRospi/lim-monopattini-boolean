@@ -1,0 +1,100 @@
+body{
+  background-image: url(sfondo.jpg);
+  background-size:cover;
+  background-repeat: space;
+  font-family: 'Poppins',sans-serif;
+
+}
+
+.logo{
+  width: 200px;
+  margin-top: 70px
+}
+
+.contenitore{
+  box-sizing: border-box;
+  width: 1000px;
+   height: 650px;
+   margin: auto;
+   border-radius: 15px;
+   text-align: center;
+   background-color:rgba(0, 0, 0, 0.5);
+}
+.titolo{
+color: #00ff00;
+margin-top: 3px;
+margin-bottom: 3px;
+}
+
+.backgroud{
+  background-color: #00ff00;
+  width: 750px;
+  height: 36px;
+  margin:auto;
+}
+
+.posizione{
+  padding-top: 8px;
+
+}
+.primo{
+  text-align: left;
+  width: 750px;
+  height: 36px;
+  margin:auto;
+  margin-top: 15px;
+  color: white;
+}
+div>h3{
+  display: inline-block;
+color: white;
+}
+.location{
+  color: white;
+}
+
+.location:before{
+  content: "\21A6";
+
+}
+
+.statocarica1{
+  width: 300px;
+  height: 25px;
+  background-color: orange;
+  text-align: left;
+  border-radius: 5px;
+}
+.secondo{
+  text-align: left;
+  width: 750px;
+  height: 36px;
+  margin:auto;
+  margin-top: 75px;
+  color: white;
+}
+
+.statocarica2{
+  width: 470px;
+  height: 25px;
+  background-color: #7fff00;
+  text-align: left;
+  border-radius: 5px;
+}
+
+.terzo{
+  text-align: left;
+  width: 750px;
+  height: 36px;
+  margin:auto;
+  margin-top: 95px;
+  color: white;
+}
+
+.statocarica3{
+  width: 150px;
+  height: 25px;
+  background-color:#dc143c;
+  text-align: left;
+  border-radius: 5px;
+}
